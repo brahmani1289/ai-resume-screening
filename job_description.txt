@@ -1,0 +1,6 @@
+Job Title: Python Developer
+Requirements:
+- Strong knowledge of Python
+- Experience with Machine Learning and NLP
+- Familiarity with Scikit-Learn, SpaCy, and Pandas
+- Good communication skills
